@@ -83,7 +83,7 @@ export default function B2BClient({ initialData }: { initialData: any[] }) {
   if (!initialData || initialData.length === 0) return null;
 
   return (
-    <main className="min-h-screen pt-32 pb-24 px-6 bg-[#FAF9F6] relative">
+    <main className="min-h-screen pt-28 pb-24 px-6 bg-[#FAF9F6] relative">
       <div className="max-w-7xl mx-auto">
         
         {/* Header Section */}

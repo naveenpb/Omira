@@ -41,7 +41,7 @@ export default defineType({
       name: 'funnelTarget',
       title: 'Internal Funnel Target (The Hyperlink Trap)',
       type: 'string',
-      description: 'The URL to route the user to after reading (e.g., /b2c/alcohol-rehab)',
+      description: 'The URL to route the user to after reading (e.g., /treatments/alcohol-rehab)',
     }),
     defineField({
       name: 'content',

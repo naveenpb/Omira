@@ -31,7 +31,7 @@ export const blogPosts: Record<string, BlogPost> = {
     date: "October 12, 2026",
     readTime: "5 Min Read",
     category: "Oncology",
-    funnelTarget: "/b2c/cancer-support",
+    funnelTarget: "/treatments/cancer-support",
     funnelText: "View the Omira Cancer Wellness Protocol",
     content: [
       { type: "p", text: "When undergoing aggressive oncology treatments, patients often report that the fatigue is worse than the nausea. It is a bone-deep exhaustion that sleep does not cure." },
@@ -54,7 +54,7 @@ export const blogPosts: Record<string, BlogPost> = {
     date: "October 18, 2026",
     readTime: "4 Min Read",
     category: "Cardiovascular",
-    funnelTarget: "/b2c/hypertension",
+    funnelTarget: "/treatments/hypertension",
     funnelText: "Explore the Morning Calm Hypertension Protocol",
     content: [
       { type: "p", text: "Hypertension is known as the silent killer. The first line of defense in allopathic medicine is usually a combination of ACE inhibitors or Beta-blockers. They work flawlessly to drop the pressure, but they come with a systemic cost." },
@@ -74,7 +74,7 @@ export const blogPosts: Record<string, BlogPost> = {
     date: "October 22, 2026",
     readTime: "6 Min Read",
     category: "Rehabilitation",
-    funnelTarget: "/b2c/alcohol-rehab",
+    funnelTarget: "/treatments/alcohol-rehab",
     funnelText: "View the De-Addiction Recovery Protocol",
     content: [
       { type: "p", text: "The most dangerous misconception in addiction recovery is that relapse is a failure of willpower. In reality, early recovery is a state of severe physiological crisis." },
@@ -96,7 +96,7 @@ export const blogPosts: Record<string, BlogPost> = {
     date: "October 28, 2026",
     readTime: "4 Min Read",
     category: "Rehabilitation",
-    funnelTarget: "/b2c/post-surgical",
+    funnelTarget: "/treatments/post-surgical",
     funnelText: "Explore the Accelerated Healing Protocol",
     content: [
       { type: "p", text: "Surgical intervention is highly localized trauma. While the incision site needs immobility to fuse, the rest of the body desperately needs movement." },
